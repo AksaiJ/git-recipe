@@ -1,5 +1,14 @@
 lets try to make a basic website which will list some useful websites by categories
 
+most times you dont do what you want to do, instead you do as per demand of client so that's why I'm changing topic of my this project to 
+actually recipies.
+
+so lets make a recipe website for some snacks
+1. bhel
+2. panipuri
+3. dhokla
+4. cachori
+5. tea
 
 
 im thiking of categories like 
